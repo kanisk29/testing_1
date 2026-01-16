@@ -1,3 +1,4 @@
 def add(a,b):
     return a + b
-print("n")
+def sub(a,b):
+    return a - b
