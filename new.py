@@ -9,3 +9,5 @@ name("boku")
 name("bolh")
 def newer(my):
     print("newest curretn")
+def ne32412er(my):
+    print("newest cur32412etn")
